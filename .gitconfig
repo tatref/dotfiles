@@ -1,0 +1,7 @@
+[user]
+	name = tatref
+	email = tatref@github.com
+[color]
+	ui = auto
+[push]
+	default = simple
